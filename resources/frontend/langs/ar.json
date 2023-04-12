@@ -1,0 +1,31 @@
+{
+    "ADMIN": {
+        "HEADER": {
+            "CLICK_ME": "اضغط هنا {number}"
+        },
+        "SIDEBAR": {
+            "SANDRA_ADAMS": "ساندرا آدمز",
+            "MY_FILES": "ملفاتي",
+            "SHARED_WITH_ME": "تمت مشاركته معي",
+            "STARRED": "المفضلة",
+            "ADMINISTRATION": "المدير",
+            "MANAGEMENT": "الإدارة",
+            "SETTINGS": "الإعدادات"
+        },
+
+
+
+        "TOOLTIPS": {
+            "HEADER":{
+                "UNLOCK_MENU": "إلغاء قفل القائمة",
+                "LOCK_MENU": "قفل الفائمة",
+                "CHANGE_LANGUAGE": "تغيير اللغة",
+                "SETTINGS": "الإعدادات",
+                "MORE": "المزيد"
+            },
+            "SIDEBAR": {
+
+            }
+        }
+    }
+}

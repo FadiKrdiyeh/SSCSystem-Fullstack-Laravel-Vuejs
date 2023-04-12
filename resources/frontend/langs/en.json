@@ -1,0 +1,34 @@
+{
+    "HELLO": "Hello",
+
+    "ADMIN": {
+        "HEADER": {
+            "CLICK_ME": "Click me {number}"
+        },
+        "SIDEBAR": {
+            "SANDRA_ADAMS": "Sandra Adams",
+            "MY_FILES": "My Files",
+            "SHARED_WITH_ME": "Shared with me",
+            "STARRED": "Starred",
+            "ADMINISTRATION": "Administration",
+            "MANAGEMENT": "Management",
+            "SETTINGS": "Settings"
+        },
+
+
+
+
+        "TOOLTIPS": {
+            "HEADER":{
+                "UNLOCK_MENU": "Unlock menu",
+                "LOCK_MENU": "Lock menu",
+                "CHANGE_LANGUAGE": "Change language",
+                "SETTINGS": "Settings",
+                "MORE": "More"
+            },
+            "SIDEBAR": {
+
+            }
+        }
+    }
+}
